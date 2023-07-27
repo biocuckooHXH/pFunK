@@ -1,2 +1,2 @@
 # pFunK
-A power framwork for functional PTMs by H2
+A power framwork for functional PTMs prediction by H2.
