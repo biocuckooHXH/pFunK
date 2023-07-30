@@ -12,6 +12,7 @@ If you are interested in pFunK and want to know more details, please check the a
 
 ## Usage
 models: The models used in the article for reference.
+
 models_buildings_codes: Train your own model by the codes.
 
 ## Quick start
@@ -19,4 +20,5 @@ You can run predict.py for predicting your fasta file.
 
 ## Contact
 Xinhe Huang: D202280864@hust.edu.cn
+
 Dr. Yu Xue: xueyu@hust.edu.cn
